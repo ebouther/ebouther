@@ -84,12 +84,12 @@ Designed the RATP (Reliable Asynchronous Transport Protocol) in Ada: reliable UD
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ebouther&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebouther&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebouther&theme=tokyonight" alt="GitHub profile summary" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebouther&theme=tokyonight" alt="Repositories per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ebouther&theme=tokyonight" alt="Most committed language" />
 
 <img src="https://streak-stats.demolab.com?user=ebouther&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ebouther&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 
 </div>
 
