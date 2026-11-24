@@ -32,7 +32,7 @@ Migration to the cloud, IaC overhaul, CI/CD platform or serverless backend: tell
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-ebouther.github.io-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ebouther.github.io/)
+<!-- [![Website](https://img.shields.io/badge/Website-ebouther.github.io-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ebouther.github.io/) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eliot_Boutherin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliot-boutherin/)
 [![Malt](https://img.shields.io/badge/Malt-eliotboutherin-FC5757?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/eliotboutherin)
 [![Email](https://img.shields.io/badge/Email-eliot.boutherin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliot.boutherin@gmail.com)
