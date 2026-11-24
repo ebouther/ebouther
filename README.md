@@ -10,7 +10,7 @@
 
 I design and industrialize AWS cloud platforms: multi-account serverless architectures, reproducible Infrastructure as Code and fully automated delivery pipelines. The outcome: teams that ship fast, with confidence, at controlled cost.
 
-[Website](https://ebouther.github.io/) · [LinkedIn](https://www.linkedin.com/in/eliot-boutherin/) · [Malt](https://www.malt.fr/profile/eliotboutherin)
+[LinkedIn](https://www.linkedin.com/in/eliot-boutherin/) · [Malt](https://www.malt.fr/profile/eliotboutherin)
 
 </div>
 
